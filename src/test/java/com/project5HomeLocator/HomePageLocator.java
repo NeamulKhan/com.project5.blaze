@@ -1,5 +1,5 @@
 package com.project5HomeLocator;
 
-public class HomePageLocator {
+public class HomePageLocator extends BaseClass_project5{
 
 }
