@@ -8,7 +8,7 @@ public class HomePageLocator extends BaseClass_project5{
 	
 	public HomePageLocator () {
 		
-		PageFactory.initElements(driver, this);
+		
 		
 		
 	}
